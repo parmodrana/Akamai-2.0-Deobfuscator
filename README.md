@@ -1,5 +1,5 @@
 # Akamai-2.0-Deobfuscator
- 'This project is sponsored by Browserstack.' 
+ This project is sponsored by Browserstack. 
 This repository contains a fully functional akamai 2.0 deobfuscator (as of wWAHTlbNzK script). All necessary steps to recover a well readable and understandable state including removal of.
 
 Most important transformations included:
